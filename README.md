@@ -1,8 +1,8 @@
-#Sistem Validasi E-KTP (Studi Kasus Pemerintahan)
+# Sistem Validasi E-KTP (Studi Kasus Pemerintahan)
 
 Aplikasi validasi data kependudukan (E-KTP) sederhana yang dibangun sebagai solusi untuk studi kasus teknis. Aplikasi ini mensimulasikan integrasi aman antara Frontend dan Backend menggunakan API Key, validasi input yang ketat, dan manajemen sesi data sementara.
 
-##🚀 Fitur Utama
+## 🚀 Fitur Utama
 
 1. Keamanan API (Middleware Guard)
 
@@ -26,7 +26,7 @@ Dibangun dengan React.js dan Tailwind CSS.
 
 Tampilan responsif dan format tanggal yang ramah pengguna (Format Indonesia).
 
-##🛠️ Teknologi yang Digunakan
+## 🛠️ Teknologi yang Digunakan
 
 Frontend: React (Vite), Tailwind CSS
 
@@ -36,7 +36,7 @@ Keamanan: Custom Middleware for API Key Authentication
 
 Data: In-Memory Array (Mock Database)
 
-##📦 Cara Menjalankan Project
+## 📦 Cara Menjalankan Project
 
 Ikuti langkah-langkah berikut untuk menjalankan aplikasi di komputer lokal Anda.
 
@@ -46,8 +46,8 @@ Pastikan Node.js sudah terinstall di komputer Anda.
 
 1. Clone Repository
 
-git clone [https://github.com/username-kamu/nama-repo.git](https://github.com/username-kamu/nama-repo.git)
-cd nama-repo
+git clone [https://github.com/fadligg/Test-Magang.git](https://github.com/fadligg/Test-Magang.git)
+cd Test-Magang
 
 
 2. Setup & Jalankan Backend (Server)
@@ -72,7 +72,7 @@ npm run dev
 
 Aplikasi akan berjalan di http://localhost:5173 (atau port lain yang ditampilkan terminal)
 
-##🔑 Dokumentasi API
+## 🔑 Dokumentasi API
 
 Mendapatkan Data Penduduk
 
@@ -115,7 +115,7 @@ Contoh Response Gagal (403 Forbidden):
 }
 
 
-🧪 Data Dummy untuk Pengujian
+## 🧪 Data Dummy untuk Pengujian
 
 Gunakan NIK berikut untuk menguji aplikasi:
 
@@ -137,4 +137,4 @@ Simulasi logika backend & return JSON metadata.
 
 Styling Frontend dengan validasi visual (Border Merah).
 
-Dibuat dengan ❤️ oleh [Nama Kamu]
+Dibuat dengan ❤️ oleh fadligg
